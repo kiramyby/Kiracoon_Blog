@@ -24,7 +24,7 @@ export default defineConfig({
       { text: '🔖Archive', link: '/archive/' },
       { text: '🧠About', link: '/about' },
       { text: '📢BlogMoment', link: '/archive/blog' },
-      { text: '💼BlogRepo', link: 'https://github.com/kiramyby/kiramyby.github.io' }
+      { text: '💼BlogRepo', link: 'https://github.com/kiramyby/kiracoon_blog' }
     ],
 
     sidebar: {

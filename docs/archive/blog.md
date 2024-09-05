@@ -1,5 +1,13 @@
 # Blog Moment
 
+## Rebuild —— 迁移事件
+
+> 用GitHub Page部署每次都要大动干戈
+>
+> 3rd. 2024.9.5  从GitHub Pages迁移至 Cloudflare Pages
+
+ 
+
 ## Rename —— 重命名事件
 
 > Kiracoon下决心推动了历史遗留问题的妥善解决，很好地处理了变革时期过去与未来的矛盾
@@ -9,6 +17,8 @@
 *“经此一役，Kiracoon甩掉了沉重的历史包袱，真正意义上开始了新的旅途。”*
 
 *本台记者 **Mik7r4** 报道。*
+
+
 
 ## Renovation —— 翻新事件
 
